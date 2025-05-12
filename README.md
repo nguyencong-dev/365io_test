@@ -27,13 +27,13 @@ Sinh viên năm 2 ngành Công nghệ thông tin tại Trường ĐH Mở TP.HCM
 
 | Kỹ năng                  | Biểu tượng | Mức độ       |
 |--------------------------|------------|--------------|
-| Python                   | 🐍         | ⭐⭐⭐☆        |
-| C++                      | 💻         | ⭐⭐⭐☆        |
+| Python                   | 🐍         | ⭐⭐⭐☆☆     |
+| C++                      | 💻         | ⭐⭐⭐☆☆       |
 | Java                     | ☕         | ⭐⭐⭐☆☆        |
-| HTML/CSS                 | 🌐         | ⭐⭐⭐☆        |
+| HTML/CSS                 | 🌐         | ⭐⭐⭐☆☆        |
 | JavaScript               | ⚙️         | ⭐⭐⭐☆☆        |
 | SQL server                   | 📊         | ⭐⭐⭐☆☆        |
-| Git & GitHub             | 🛠         | ⭐⭐☆        |
+| Git & GitHub             | 🛠         | ⭐⭐☆☆☆        |
 
 ---
 
